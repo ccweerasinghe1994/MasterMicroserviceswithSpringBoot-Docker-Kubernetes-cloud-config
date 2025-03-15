@@ -7,7 +7,7 @@ build:
 accounts:
   message: "Hello from accounts service from prod"
   contactDetails:
-    email: "cgnexus-prod@gmail.com"
+    email: "{cipher}0adca1127a824797d9498e8d721842f854e6d546217426196d88e1a0c0587cbdc04831ede89f45856c9e216fc4b27eb4"
     name: "CG Nexus Prod"
   onCallSupport:
     - (777) 777-7777
