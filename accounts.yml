@@ -13,7 +13,7 @@ build:
   version: "3.0.0"
 
 accounts:
-  message: "Hello from accounts service"
+  message: "Hello from accounts docker service"
   contactDetails:
     email: "cgnexus@gmail.com"
     name: "CG Nexus"

@@ -2,7 +2,7 @@ build:
   version: "3.0.0"
 
 loans:
-  message: "Hello from loans service from"
+  message: "Hello from loans service from docker"
   contactDetails:
     email: "cgnexus@gmail.com"
     name: "CG Nexus"
