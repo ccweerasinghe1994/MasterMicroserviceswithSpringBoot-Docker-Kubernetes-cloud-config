@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 loans:
-  message: "Hello from loans service from webhook api"
+  message: "Hello from loans service from docker api"
   contactDetails:
     email: "cgnexus-prod@gmail.com"
     name: "CG Nexus Prod"
